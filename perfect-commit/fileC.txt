@@ -1,1 +1,3 @@
 This is flie C
+
+update file C after commit
