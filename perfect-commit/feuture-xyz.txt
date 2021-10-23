@@ -2,5 +2,8 @@ This file create on main
 
 This is feature-xyz.txt file add in branch feature-xyz
 
+1. This is feature-xyz.txt file add in branch feature-xyz
+
+2. Edit on github on feature-xyz branch
 2.1 The file was change on git hub and the changed not merged
 3 update feature-xyz on local branch and then commit
